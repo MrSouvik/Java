@@ -1,6 +1,6 @@
 package Operators;
 
-public class ShiftOperator {
+public class _5_ShiftOperator {
 	/*
 	 * Types of Shift Operators - 
 	 * ------------------------

@@ -1,6 +1,6 @@
 package Operators;
 
-public class ArithmeticOperator {
+public class _1_ArithmeticOperator {
 	/*
 	 * Types of Arithmetic operator - 
 	 * ----------------------------

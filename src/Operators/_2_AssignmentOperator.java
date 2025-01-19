@@ -1,6 +1,6 @@
 package Operators;
 
-public class AssignmentOperator {
+public class _2_AssignmentOperator {
 	/*
 	 * Types of Assignment Operator - 
 	 * ----------------------------

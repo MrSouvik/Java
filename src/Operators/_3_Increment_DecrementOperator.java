@@ -1,6 +1,6 @@
 package Operators;
 
-public class Increment_DecrementOperator {
+public class _3_Increment_DecrementOperator {
 	/*
 	 * Types of Increment Operator -
 	 * ---------------------------

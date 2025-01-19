@@ -1,6 +1,6 @@
 package Operators;
 
-public class BitwiseOperators {
+public class _4_BitwiseOperators {
 	/*
 	 * Types of Bitwise Operators - 
 	 * --------------------------
