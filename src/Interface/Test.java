@@ -19,6 +19,10 @@ public class Test {
 		square.draw();
 		square.fill("Yellow");
 		
+		square.display(); // calling default method
+		Mensuration.print(); // calling static method without using object
+		
+		
 		
 	}
 }

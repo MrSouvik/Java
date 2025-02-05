@@ -11,6 +11,4 @@ public class Rectangle implements Shape {
 	public void fill(String colour) {
 		System.out.println("Colour : "+colour+" fill inside Rectangle");
 	}
-	
-
 }
